@@ -1,0 +1,340 @@
+{"input": "Write a confident LinkedIn post about certification.", "output": "Thrilled to share that I\u2019ve completed my certification in Natural Language Processing! It\u2019s been a rewarding journey diving deep into LLMs and language modeling. Excited to apply this knowledge in real-world AI projects!"}
+{"input": "Write a grateful LinkedIn post about internship.", "output": "Grateful to have completed my internship at VisionAI Labs! The hands-on experience with computer vision and model deployment was invaluable. Thanks to the entire team for the mentorship and support."}
+{"input": "Write a excited LinkedIn post about hackathon.", "output": "Our team just won 2nd place at the National AI Hackathon! We built a real-time facial recognition system that impressed the judges. Amazing experience collaborating and learning at every step."}
+{"input": "Write a professional LinkedIn post about conference.", "output": "Had the opportunity to attend the India AI Summit 2025! Insightful keynotes, great networking, and loads of inspiration. Looking forward to applying these learnings in my next projects."}
+{"input": "Write a proud LinkedIn post about project completion.", "output": "Just wrapped up a person re-identification system using deep learning and FAISS! A milestone project that sharpened my skills in feature extraction, clustering, and model optimization."}
+{"input": "Write a humble LinkedIn post about career update.", "output": "I\u2019m excited to share that I\u2019ve joined BigVision as a Computer Vision Intern! Looking forward to learning from an amazing team and contributing to impactful projects."}
+{"input": "Write a motivational LinkedIn post about learning milestone.", "output": "Completed my 30-day Computer Vision learning sprint! From OpenCV to CNNs to deployment \u2014 every day was a step forward. Always learning, always growing!"}
+{"input": "Write a friendly LinkedIn post about networking.", "output": "Had an amazing time connecting with fellow AI enthusiasts at the Chennai ML Meetup! Great conversations, new ideas, and future collaborations brewing."}
+{"input": "Write a inspiring LinkedIn post about personal achievement.", "output": "From being confused about LLMs to building my own offline LinkedIn post generator \u2014 what a journey! Every bug fixed was a lesson learned. Grateful for the grind."}
+{"input": "Write a appreciative LinkedIn post about teamwork.", "output": "Shoutout to my teammates on the Vision Pivot project \u2014 we pushed through blurry footage, model crashes, and tight deadlines. Wouldn\u2019t have done it without your support!"}
+{"input": "Write a professional LinkedIn post about teamwork.", "output": "This is a professional post about teamwork \u2014 a placeholder for a well-crafted LinkedIn message."}
+{"input": "Write a professional LinkedIn post about networking.", "output": "This is a professional post about networking \u2014 a placeholder for a well-crafted LinkedIn message."}
+{"input": "Write a professional LinkedIn post about internship.", "output": "This is a professional post about internship \u2014 a placeholder for a well-crafted LinkedIn message."}
+{"input": "Write a excited LinkedIn post about learning milestone.", "output": "This is a excited post about learning milestone \u2014 a placeholder for a well-crafted LinkedIn message."}
+{"input": "Write a proud LinkedIn post about networking.", "output": "This is a proud post about networking \u2014 a placeholder for a well-crafted LinkedIn message."}
+{"input": "Write a inspiring LinkedIn post about internship.", "output": "This is a inspiring post about internship \u2014 a placeholder for a well-crafted LinkedIn message."}
+{"input": "Write a humble LinkedIn post about hackathon.", "output": "This is a humble post about hackathon \u2014 a placeholder for a well-crafted LinkedIn message."}
+{"input": "Write a proud LinkedIn post about conference.", "output": "This is a proud post about conference \u2014 a placeholder for a well-crafted LinkedIn message."}
+{"input": "Write a proud LinkedIn post about personal achievement.", "output": "This is a proud post about personal achievement \u2014 a placeholder for a well-crafted LinkedIn message."}
+{"input": "Write a inspiring LinkedIn post about certification.", "output": "This is a inspiring post about certification \u2014 a placeholder for a well-crafted LinkedIn message."}
+{"input": "Write a friendly LinkedIn post about project completion.", "output": "This is a friendly post about project completion \u2014 a placeholder for a well-crafted LinkedIn message."}
+{"input": "Write a professional LinkedIn post about conference.", "output": "This is a professional post about conference \u2014 a placeholder for a well-crafted LinkedIn message."}
+{"input": "Write a motivational LinkedIn post about conference.", "output": "This is a motivational post about conference \u2014 a placeholder for a well-crafted LinkedIn message."}
+{"input": "Write a appreciative LinkedIn post about conference.", "output": "This is a appreciative post about conference \u2014 a placeholder for a well-crafted LinkedIn message."}
+{"input": "Write a confident LinkedIn post about career update.", "output": "This is a confident post about career update \u2014 a placeholder for a well-crafted LinkedIn message."}
+{"input": "Write a confident LinkedIn post about certification.", "output": "This is a confident post about certification \u2014 a placeholder for a well-crafted LinkedIn message."}
+{"input": "Write a friendly LinkedIn post about certification.", "output": "This is a friendly post about certification \u2014 a placeholder for a well-crafted LinkedIn message."}
+{"input": "Write a professional LinkedIn post about conference.", "output": "This is a professional post about conference \u2014 a placeholder for a well-crafted LinkedIn message."}
+{"input": "Write a professional LinkedIn post about career update.", "output": "This is a professional post about career update \u2014 a placeholder for a well-crafted LinkedIn message."}
+{"input": "Write a appreciative LinkedIn post about project completion.", "output": "This is a appreciative post about project completion \u2014 a placeholder for a well-crafted LinkedIn message."}
+{"input": "Write a humble LinkedIn post about certification.", "output": "This is a humble post about certification \u2014 a placeholder for a well-crafted LinkedIn message."}
+{"input": "Write a humble LinkedIn post about career update.", "output": "This is a humble post about career update \u2014 a placeholder for a well-crafted LinkedIn message."}
+{"input": "Write a professional LinkedIn post about learning milestone.", "output": "This is a professional post about learning milestone \u2014 a placeholder for a well-crafted LinkedIn message."}
+{"input": "Write a confident LinkedIn post about internship.", "output": "This is a confident post about internship \u2014 a placeholder for a well-crafted LinkedIn message."}
+{"input": "Write a friendly LinkedIn post about hackathon.", "output": "This is a friendly post about hackathon \u2014 a placeholder for a well-crafted LinkedIn message."}
+{"input": "Write a grateful LinkedIn post about teamwork.", "output": "This is a grateful post about teamwork \u2014 a placeholder for a well-crafted LinkedIn message."}
+{"input": "Write a motivational LinkedIn post about networking.", "output": "This is a motivational post about networking \u2014 a placeholder for a well-crafted LinkedIn message."}
+{"input": "Write a professional LinkedIn post about teamwork.", "output": "This is a professional post about teamwork \u2014 a placeholder for a well-crafted LinkedIn message."}
+{"input": "Write a appreciative LinkedIn post about conference.", "output": "This is a appreciative post about conference \u2014 a placeholder for a well-crafted LinkedIn message."}
+{"input": "Write a friendly LinkedIn post about learning milestone.", "output": "This is a friendly post about learning milestone \u2014 a placeholder for a well-crafted LinkedIn message."}
+{"theme": "startup launch", "tone": "humble", "instruction": "Write a humble LinkedIn post about startup launch."}
+{"theme": "job switch", "tone": "humble", "instruction": "Write a humble LinkedIn post about job switch."}
+{"theme": "career update", "tone": "proud", "instruction": "Write a proud LinkedIn post about career update."}
+{"theme": "learning milestone", "tone": "professional", "instruction": "Write a professional LinkedIn post about learning milestone."}
+{"theme": "internship", "tone": "friendly", "instruction": "Write a confident LinkedIn post celebrating my internship at Intel."}
+{"theme": "job switch", "tone": "proud", "instruction": "Write a proud LinkedIn post about job switch."}
+{"theme": "project completion", "tone": "excited", "instruction": "Write a professional post celebrating the successful delivery of Vision Pivot."}
+{"theme": "internship", "tone": "motivational", "instruction": "Compose a reflective LinkedIn post about my internship experience with Meta."}
+{"theme": "learning milestone", "tone": "confident", "instruction": "Write a confident LinkedIn post about learning milestone."}
+{"theme": "personal achievement", "tone": "proud", "instruction": "Write a proud LinkedIn post about personal achievement."}
+{"theme": "personal achievement", "tone": "proud", "instruction": "Write a proud LinkedIn post about personal achievement."}
+{"theme": "webinar", "tone": "humble", "instruction": "Write a humble LinkedIn post about webinar."}
+{"theme": "internship", "tone": "inspiring", "instruction": "Compose a reflective LinkedIn post about my internship experience with VisionAI Labs."}
+{"theme": "webinar", "tone": "appreciative", "instruction": "Write a appreciative LinkedIn post about webinar."}
+{"theme": "career update", "tone": "excited", "instruction": "Write a excited LinkedIn post about career update."}
+{"theme": "conference", "tone": "inspiring", "instruction": "I attended CVPR 2025. Write a professional LinkedIn post about it."}
+{"theme": "job switch", "tone": "inspiring", "instruction": "Write a inspiring LinkedIn post about job switch."}
+{"theme": "webinar", "tone": "inspiring", "instruction": "Write a inspiring LinkedIn post about webinar."}
+{"theme": "freelance project", "tone": "inspiring", "instruction": "Write a inspiring LinkedIn post about freelance project."}
+{"theme": "networking", "tone": "inspiring", "instruction": "Write a inspiring LinkedIn post about networking."}
+{"theme": "personal achievement", "tone": "motivational", "instruction": "Write a motivational LinkedIn post about personal achievement."}
+{"theme": "networking", "tone": "grateful", "instruction": "Write a grateful LinkedIn post about networking."}
+{"theme": "research", "tone": "friendly", "instruction": "Write a friendly LinkedIn post about research."}
+{"theme": "certification", "tone": "proud", "instruction": "Just completed a certification in Computer Vision. Write a confident LinkedIn post about it."}
+{"theme": "career update", "tone": "appreciative", "instruction": "Write a appreciative LinkedIn post about career update."}
+{"theme": "promotion", "tone": "professional", "instruction": "Write a professional LinkedIn post about promotion."}
+{"theme": "teamwork", "tone": "professional", "instruction": "Write a professional LinkedIn post about teamwork."}
+{"theme": "teamwork", "tone": "excited", "instruction": "Write a excited LinkedIn post about teamwork."}
+{"theme": "teamwork", "tone": "excited", "instruction": "Write a excited LinkedIn post about teamwork."}
+{"theme": "networking", "tone": "grateful", "instruction": "Write a grateful LinkedIn post about networking."}
+{"theme": "startup launch", "tone": "professional", "instruction": "Write a professional LinkedIn post about startup launch."}
+{"theme": "hackathon", "tone": "confident", "instruction": "We won 2nd place at PyCon 2025! Write an excited LinkedIn post."}
+{"theme": "hackathon", "tone": "excited", "instruction": "Our team built an amazing solution at CVPR 2025. Share this achievement on LinkedIn."}
+{"theme": "webinar", "tone": "grateful", "instruction": "Write a grateful LinkedIn post about webinar."}
+{"theme": "startup launch", "tone": "motivational", "instruction": "Write a motivational LinkedIn post about startup launch."}
+{"theme": "teamwork", "tone": "professional", "instruction": "Write a professional LinkedIn post about teamwork."}
+{"theme": "conference", "tone": "proud", "instruction": "Write a proud LinkedIn post on key takeaways from PyCon 2025."}
+{"theme": "networking", "tone": "grateful", "instruction": "Write a grateful LinkedIn post about networking."}
+{"theme": "startup launch", "tone": "motivational", "instruction": "Write a motivational LinkedIn post about startup launch."}
+{"theme": "internship", "tone": "proud", "instruction": "Compose a reflective LinkedIn post about my internship experience with Meta."}
+{"theme": "publication", "tone": "proud", "instruction": "Write a proud LinkedIn post about publication."}
+{"theme": "learning milestone", "tone": "proud", "instruction": "Write a proud LinkedIn post about learning milestone."}
+{"theme": "project completion", "tone": "confident", "instruction": "Share a LinkedIn update about finishing my project: Face Mask Detection."}
+{"theme": "promotion", "tone": "excited", "instruction": "Write a excited LinkedIn post about promotion."}
+{"theme": "startup launch", "tone": "proud", "instruction": "Write a proud LinkedIn post about startup launch."}
+{"theme": "certification", "tone": "inspiring", "instruction": "Write a friendly LinkedIn post about completing a Cloud Computing course."}
+{"theme": "volunteering", "tone": "humble", "instruction": "Write a humble LinkedIn post about volunteering."}
+{"theme": "promotion", "tone": "inspiring", "instruction": "Write a inspiring LinkedIn post about promotion."}
+{"theme": "promotion", "tone": "excited", "instruction": "Write a excited LinkedIn post about promotion."}
+{"theme": "career update", "tone": "friendly", "instruction": "Write a friendly LinkedIn post about career update."}
+{"theme": "career update", "tone": "motivational", "instruction": "Write a motivational LinkedIn post about career update."}
+{"theme": "webinar", "tone": "excited", "instruction": "Write a excited LinkedIn post about webinar."}
+{"theme": "internship", "tone": "appreciative", "instruction": "Write a confident LinkedIn post celebrating my internship at BigVision."}
+{"theme": "personal achievement", "tone": "grateful", "instruction": "Write a grateful LinkedIn post about personal achievement."}
+{"theme": "personal achievement", "tone": "inspiring", "instruction": "Write a inspiring LinkedIn post about personal achievement."}
+{"theme": "startup launch", "tone": "confident", "instruction": "Write a confident LinkedIn post about startup launch."}
+{"theme": "project completion", "tone": "motivational", "instruction": "Write a professional post celebrating the successful delivery of AI Resume Matcher."}
+{"theme": "webinar", "tone": "professional", "instruction": "Write a professional LinkedIn post about webinar."}
+{"theme": "volunteering", "tone": "professional", "instruction": "Write a professional LinkedIn post about volunteering."}
+{"theme": "personal achievement", "tone": "confident", "instruction": "Write a confident LinkedIn post about personal achievement."}
+{"theme": "award", "tone": "professional", "instruction": "Write a professional LinkedIn post about award."}
+{"theme": "publication", "tone": "humble", "instruction": "Write a humble LinkedIn post about publication."}
+{"theme": "networking", "tone": "inspiring", "instruction": "Write a inspiring LinkedIn post about networking."}
+{"theme": "conference", "tone": "excited", "instruction": "I attended National AI Conference. Write a professional LinkedIn post about it."}
+{"theme": "freelance project", "tone": "motivational", "instruction": "Write a motivational LinkedIn post about freelance project."}
+{"theme": "job switch", "tone": "motivational", "instruction": "Write a motivational LinkedIn post about job switch."}
+{"theme": "certification", "tone": "motivational", "instruction": "Craft a motivational LinkedIn post about earning a NLP certification."}
+{"theme": "personal achievement", "tone": "inspiring", "instruction": "Write a inspiring LinkedIn post about personal achievement."}
+{"theme": "teamwork", "tone": "humble", "instruction": "Write a humble LinkedIn post about teamwork."}
+{"theme": "job switch", "tone": "appreciative", "instruction": "Write a appreciative LinkedIn post about job switch."}
+{"theme": "career update", "tone": "proud", "instruction": "Write a proud LinkedIn post about career update."}
+{"theme": "personal achievement", "tone": "inspiring", "instruction": "Write a inspiring LinkedIn post about personal achievement."}
+{"theme": "promotion", "tone": "professional", "instruction": "Write a professional LinkedIn post about promotion."}
+{"theme": "certification", "tone": "appreciative", "instruction": "Just completed a certification in Computer Vision. Write a confident LinkedIn post about it."}
+{"theme": "certification", "tone": "grateful", "instruction": "Craft a motivational LinkedIn post about earning a Deep Learning certification."}
+{"theme": "award", "tone": "humble", "instruction": "Write a humble LinkedIn post about award."}
+{"theme": "volunteering", "tone": "professional", "instruction": "Write a professional LinkedIn post about volunteering."}
+{"theme": "internship", "tone": "excited", "instruction": "Write a confident LinkedIn post celebrating my internship at Intel."}
+{"theme": "startup launch", "tone": "grateful", "instruction": "Write a grateful LinkedIn post about startup launch."}
+{"theme": "project completion", "tone": "appreciative", "instruction": "Write a professional post celebrating the successful delivery of AI Resume Matcher."}
+{"theme": "internship", "tone": "inspiring", "instruction": "I just finished my internship at Intel. Write a grateful LinkedIn post."}
+{"theme": "job switch", "tone": "grateful", "instruction": "Write a grateful LinkedIn post about job switch."}
+{"theme": "promotion", "tone": "friendly", "instruction": "Write a friendly LinkedIn post about promotion."}
+{"theme": "learning milestone", "tone": "professional", "instruction": "Write a professional LinkedIn post about learning milestone."}
+{"theme": "research", "tone": "appreciative", "instruction": "Write a appreciative LinkedIn post about research."}
+{"theme": "hackathon", "tone": "motivational", "instruction": "We won 2nd place at CVPR 2025! Write an excited LinkedIn post."}
+{"theme": "research", "tone": "professional", "instruction": "Write a professional LinkedIn post about research."}
+{"theme": "teamwork", "tone": "motivational", "instruction": "Write a motivational LinkedIn post about teamwork."}
+{"theme": "startup launch", "tone": "professional", "instruction": "Write a professional LinkedIn post about startup launch."}
+{"theme": "startup launch", "tone": "inspiring", "instruction": "Write a inspiring LinkedIn post about startup launch."}
+{"theme": "mentorship", "tone": "proud", "instruction": "Write a proud LinkedIn post about mentorship."}
+{"theme": "conference", "tone": "inspiring", "instruction": "I attended CVPR 2025. Write a professional LinkedIn post about it."}
+{"theme": "personal achievement", "tone": "professional", "instruction": "Write a professional LinkedIn post about personal achievement."}
+{"theme": "volunteering", "tone": "confident", "instruction": "Write a confident LinkedIn post about volunteering."}
+{"theme": "conference", "tone": "excited", "instruction": "Share a reflective post on LinkedIn about attending India AI Hackathon."}
+{"theme": "learning milestone", "tone": "appreciative", "instruction": "Write a appreciative LinkedIn post about learning milestone."}
+{"theme": "project completion", "tone": "proud", "instruction": "Write a professional post celebrating the successful delivery of Vision Pivot."}
+{"theme": "teamwork", "tone": "motivational", "instruction": "Write a motivational LinkedIn post about teamwork."}
+{"theme": "networking", "tone": "friendly", "instruction": "Write a friendly LinkedIn post about networking."}
+{"theme": "job switch", "tone": "appreciative", "instruction": "Write a appreciative LinkedIn post about job switch."}
+{"theme": "promotion", "tone": "grateful", "instruction": "Write a grateful LinkedIn post about promotion."}
+{"theme": "certification", "tone": "grateful", "instruction": "Craft a motivational LinkedIn post about earning a Cloud Computing certification."}
+{"theme": "promotion", "tone": "confident", "instruction": "Write a confident LinkedIn post about promotion."}
+{"theme": "certification", "tone": "inspiring", "instruction": "Write a friendly LinkedIn post about completing a AI course."}
+{"theme": "startup launch", "tone": "confident", "instruction": "Write a confident LinkedIn post about startup launch."}
+{"theme": "personal achievement", "tone": "humble", "instruction": "Write a humble LinkedIn post about personal achievement."}
+{"theme": "publication", "tone": "appreciative", "instruction": "Write a appreciative LinkedIn post about publication."}
+{"theme": "certification", "tone": "inspiring", "instruction": "Just completed a certification in AI. Write a confident LinkedIn post about it."}
+{"theme": "learning milestone", "tone": "excited", "instruction": "Write a excited LinkedIn post about learning milestone."}
+{"theme": "freelance project", "tone": "professional", "instruction": "Write a professional LinkedIn post about freelance project."}
+{"theme": "research", "tone": "inspiring", "instruction": "Write a inspiring LinkedIn post about research."}
+{"theme": "mentorship", "tone": "confident", "instruction": "Write a confident LinkedIn post about mentorship."}
+{"theme": "startup launch", "tone": "appreciative", "instruction": "Write a appreciative LinkedIn post about startup launch."}
+{"theme": "webinar", "tone": "friendly", "instruction": "Write a friendly LinkedIn post about webinar."}
+{"theme": "personal achievement", "tone": "humble", "instruction": "Write a humble LinkedIn post about personal achievement."}
+{"theme": "publication", "tone": "humble", "instruction": "Write a humble LinkedIn post about publication."}
+{"theme": "project completion", "tone": "inspiring", "instruction": "Share a LinkedIn update about finishing my project: Vision Pivot."}
+{"theme": "career update", "tone": "friendly", "instruction": "Write a friendly LinkedIn post about career update."}
+{"theme": "volunteering", "tone": "inspiring", "instruction": "Write a inspiring LinkedIn post about volunteering."}
+{"theme": "startup launch", "tone": "confident", "instruction": "Write a confident LinkedIn post about startup launch."}
+{"theme": "learning milestone", "tone": "inspiring", "instruction": "Write a inspiring LinkedIn post about learning milestone."}
+{"theme": "conference", "tone": "humble", "instruction": "I attended CVPR 2025. Write a professional LinkedIn post about it."}
+{"theme": "publication", "tone": "appreciative", "instruction": "Write a appreciative LinkedIn post about publication."}
+{"theme": "webinar", "tone": "proud", "instruction": "Write a proud LinkedIn post about webinar."}
+{"theme": "career update", "tone": "proud", "instruction": "Write a proud LinkedIn post about career update."}
+{"theme": "project completion", "tone": "proud", "instruction": "Share a LinkedIn update about finishing my project: AI Resume Matcher."}
+{"theme": "learning milestone", "tone": "friendly", "instruction": "Write a friendly LinkedIn post about learning milestone."}
+{"theme": "webinar", "tone": "professional", "instruction": "Write a professional LinkedIn post about webinar."}
+{"theme": "startup launch", "tone": "friendly", "instruction": "Write a friendly LinkedIn post about startup launch."}
+{"theme": "startup launch", "tone": "humble", "instruction": "Write a humble LinkedIn post about startup launch."}
+{"theme": "personal achievement", "tone": "humble", "instruction": "Write a humble LinkedIn post about personal achievement."}
+{"theme": "promotion", "tone": "professional", "instruction": "Write a professional LinkedIn post about promotion."}
+{"theme": "promotion", "tone": "confident", "instruction": "Write a confident LinkedIn post about promotion."}
+{"theme": "job switch", "tone": "humble", "instruction": "Write a humble LinkedIn post about job switch."}
+{"theme": "startup launch", "tone": "confident", "instruction": "Write a confident LinkedIn post about startup launch."}
+{"theme": "freelance project", "tone": "friendly", "instruction": "Write a friendly LinkedIn post about freelance project."}
+{"theme": "learning milestone", "tone": "appreciative", "instruction": "Write a appreciative LinkedIn post about learning milestone."}
+{"theme": "internship", "tone": "appreciative", "instruction": "Compose a reflective LinkedIn post about my internship experience with NVIDIA."}
+{"theme": "personal achievement", "tone": "excited", "instruction": "Write a excited LinkedIn post about personal achievement."}
+{"theme": "freelance project", "tone": "inspiring", "instruction": "Write a inspiring LinkedIn post about freelance project."}
+{"theme": "internship", "tone": "friendly", "instruction": "Write a confident LinkedIn post celebrating my internship at BigVision."}
+{"theme": "learning milestone", "tone": "grateful", "instruction": "Write a grateful LinkedIn post about learning milestone."}
+{"theme": "career update", "tone": "motivational", "instruction": "Write a motivational LinkedIn post about career update."}
+{"theme": "teamwork", "tone": "friendly", "instruction": "Write a friendly LinkedIn post about teamwork."}
+{"theme": "volunteering", "tone": "proud", "instruction": "Write a proud LinkedIn post about volunteering."}
+{"theme": "publication", "tone": "motivational", "instruction": "Write a motivational LinkedIn post about publication."}
+{"theme": "personal achievement", "tone": "motivational", "instruction": "Write a motivational LinkedIn post about personal achievement."}
+{"theme": "promotion", "tone": "inspiring", "instruction": "Write a inspiring LinkedIn post about promotion."}
+{"theme": "hackathon", "tone": "motivational", "instruction": "Write a proud LinkedIn post about participating in India AI Hackathon."}
+{"theme": "volunteering", "tone": "inspiring", "instruction": "Write a inspiring LinkedIn post about volunteering."}
+{"theme": "freelance project", "tone": "proud", "instruction": "Write a proud LinkedIn post about freelance project."}
+{"theme": "career update", "tone": "friendly", "instruction": "Write a friendly LinkedIn post about career update."}
+{"theme": "learning milestone", "tone": "humble", "instruction": "Write a humble LinkedIn post about learning milestone."}
+{"theme": "conference", "tone": "confident", "instruction": "I attended India AI Hackathon. Write a professional LinkedIn post about it."}
+{"theme": "career update", "tone": "inspiring", "instruction": "Write a inspiring LinkedIn post about career update."}
+{"theme": "webinar", "tone": "appreciative", "instruction": "Write a appreciative LinkedIn post about webinar."}
+{"theme": "career update", "tone": "proud", "instruction": "Write a proud LinkedIn post about career update."}
+{"theme": "project completion", "tone": "grateful", "instruction": "Completed a project on Face Mask Detection. Write a proud LinkedIn post."}
+{"theme": "project completion", "tone": "inspiring", "instruction": "Share a LinkedIn update about finishing my project: Person ReID system."}
+{"theme": "career update", "tone": "professional", "instruction": "Write a professional LinkedIn post about career update."}
+{"theme": "project completion", "tone": "proud", "instruction": "Completed a project on Fake News Detector. Write a proud LinkedIn post."}
+{"theme": "publication", "tone": "appreciative", "instruction": "Write a appreciative LinkedIn post about publication."}
+{"theme": "learning milestone", "tone": "confident", "instruction": "Write a confident LinkedIn post about learning milestone."}
+{"theme": "certification", "tone": "confident", "instruction": "Just completed a certification in Deep Learning. Write a confident LinkedIn post about it."}
+{"theme": "promotion", "tone": "inspiring", "instruction": "Write a inspiring LinkedIn post about promotion."}
+{"theme": "hackathon", "tone": "professional", "instruction": "Our team built an amazing solution at National AI Conference. Share this achievement on LinkedIn."}
+{"theme": "mentorship", "tone": "inspiring", "instruction": "Write a inspiring LinkedIn post about mentorship."}
+{"theme": "webinar", "tone": "friendly", "instruction": "Write a friendly LinkedIn post about webinar."}
+{"theme": "award", "tone": "confident", "instruction": "Write a confident LinkedIn post about award."}
+{"theme": "mentorship", "tone": "professional", "instruction": "Write a professional LinkedIn post about mentorship."}
+{"theme": "job switch", "tone": "grateful", "instruction": "Write a grateful LinkedIn post about job switch."}
+{"theme": "learning milestone", "tone": "humble", "instruction": "Write a humble LinkedIn post about learning milestone."}
+{"theme": "volunteering", "tone": "appreciative", "instruction": "Write a appreciative LinkedIn post about volunteering."}
+{"theme": "certification", "tone": "friendly", "instruction": "Write a friendly LinkedIn post about completing a Cloud Computing course."}
+{"theme": "publication", "tone": "proud", "instruction": "Write a proud LinkedIn post about publication."}
+{"theme": "volunteering", "tone": "confident", "instruction": "Write a confident LinkedIn post about volunteering."}
+{"theme": "research", "tone": "appreciative", "instruction": "Write a appreciative LinkedIn post about research."}
+{"theme": "internship", "tone": "excited", "instruction": "I just finished my internship at BigVision. Write a grateful LinkedIn post."}
+{"theme": "teamwork", "tone": "humble", "instruction": "Write a humble LinkedIn post about teamwork."}
+{"theme": "freelance project", "tone": "proud", "instruction": "Write a proud LinkedIn post about freelance project."}
+{"theme": "conference", "tone": "professional", "instruction": "Write a proud LinkedIn post on key takeaways from National AI Conference."}
+{"theme": "teamwork", "tone": "excited", "instruction": "Write a excited LinkedIn post about teamwork."}
+{"theme": "promotion", "tone": "friendly", "instruction": "Write a friendly LinkedIn post about promotion."}
+{"theme": "webinar", "tone": "proud", "instruction": "Write a proud LinkedIn post about webinar."}
+{"theme": "internship", "tone": "grateful", "instruction": "Write a confident LinkedIn post celebrating my internship at Google."}
+{"theme": "teamwork", "tone": "motivational", "instruction": "Write a motivational LinkedIn post about teamwork."}
+{"theme": "award", "tone": "motivational", "instruction": "Write a motivational LinkedIn post about award."}
+{"theme": "mentorship", "tone": "motivational", "instruction": "Write a motivational LinkedIn post about mentorship."}
+{"theme": "certification", "tone": "appreciative", "instruction": "Craft a motivational LinkedIn post about earning a LLMs certification."}
+{"theme": "award", "tone": "confident", "instruction": "Write a confident LinkedIn post about award."}
+{"theme": "certification", "tone": "humble", "instruction": "Write a friendly LinkedIn post about completing a AI course."}
+{"theme": "research", "tone": "professional", "instruction": "Write a professional LinkedIn post about research."}
+{"theme": "mentorship", "tone": "excited", "instruction": "Write a excited LinkedIn post about mentorship."}
+{"theme": "research", "tone": "excited", "instruction": "Write a excited LinkedIn post about research."}
+{"theme": "hackathon", "tone": "confident", "instruction": "We won 2nd place at CVPR 2025! Write an excited LinkedIn post."}
+{"theme": "learning milestone", "tone": "inspiring", "instruction": "Write a inspiring LinkedIn post about learning milestone."}
+{"theme": "networking", "tone": "grateful", "instruction": "Write a grateful LinkedIn post about networking."}
+{"theme": "promotion", "tone": "humble", "instruction": "Write a humble LinkedIn post about promotion."}
+{"theme": "webinar", "tone": "professional", "instruction": "Write a professional LinkedIn post about webinar."}
+{"theme": "research", "tone": "grateful", "instruction": "Write a grateful LinkedIn post about research."}
+{"theme": "hackathon", "tone": "professional", "instruction": "We won 2nd place at India AI Hackathon! Write an excited LinkedIn post."}
+{"theme": "personal achievement", "tone": "grateful", "instruction": "Write a grateful LinkedIn post about personal achievement."}
+{"theme": "certification", "tone": "proud", "instruction": "Craft a motivational LinkedIn post about earning a Cloud Computing certification."}
+{"theme": "publication", "tone": "professional", "instruction": "Write a professional LinkedIn post about publication."}
+{"theme": "networking", "tone": "friendly", "instruction": "Write a friendly LinkedIn post about networking."}
+{"theme": "startup launch", "tone": "grateful", "instruction": "Write a grateful LinkedIn post about startup launch."}
+{"theme": "hackathon", "tone": "motivational", "instruction": "Our team built an amazing solution at India AI Hackathon. Share this achievement on LinkedIn."}
+{"theme": "promotion", "tone": "proud", "instruction": "Write a proud LinkedIn post about promotion."}
+{"theme": "mentorship", "tone": "motivational", "instruction": "Write a motivational LinkedIn post about mentorship."}
+{"theme": "project completion", "tone": "inspiring", "instruction": "Share a LinkedIn update about finishing my project: Face Mask Detection."}
+{"theme": "teamwork", "tone": "friendly", "instruction": "Write a friendly LinkedIn post about teamwork."}
+{"theme": "networking", "tone": "inspiring", "instruction": "Write a inspiring LinkedIn post about networking."}
+{"theme": "project completion", "tone": "professional", "instruction": "Completed a project on Fake News Detector. Write a proud LinkedIn post."}
+{"theme": "startup launch", "tone": "motivational", "instruction": "Write a motivational LinkedIn post about startup launch."}
+{"theme": "job switch", "tone": "inspiring", "instruction": "Write a inspiring LinkedIn post about job switch."}
+{"theme": "research", "tone": "appreciative", "instruction": "Write a appreciative LinkedIn post about research."}
+{"theme": "award", "tone": "proud", "instruction": "Write a proud LinkedIn post about award."}
+{"theme": "conference", "tone": "professional", "instruction": "I attended PyCon 2025. Write a professional LinkedIn post about it."}
+{"theme": "award", "tone": "confident", "instruction": "Write a confident LinkedIn post about award."}
+{"theme": "promotion", "tone": "friendly", "instruction": "Write a friendly LinkedIn post about promotion."}
+{"theme": "webinar", "tone": "inspiring", "instruction": "Write a inspiring LinkedIn post about webinar."}
+{"theme": "learning milestone", "tone": "appreciative", "instruction": "Write a appreciative LinkedIn post about learning milestone."}
+{"theme": "hackathon", "tone": "appreciative", "instruction": "Write a proud LinkedIn post about participating in CVPR 2025."}
+{"theme": "networking", "tone": "friendly", "instruction": "Write a friendly LinkedIn post about networking."}
+{"theme": "teamwork", "tone": "confident", "instruction": "Write a confident LinkedIn post about teamwork."}
+{"theme": "award", "tone": "inspiring", "instruction": "Write a inspiring LinkedIn post about award."}
+{"theme": "hackathon", "tone": "professional", "instruction": "Write a proud LinkedIn post about participating in India AI Hackathon."}
+{"theme": "volunteering", "tone": "motivational", "instruction": "Write a motivational LinkedIn post about volunteering."}
+{"theme": "project completion", "tone": "grateful", "instruction": "Completed a project on Vision Pivot. Write a proud LinkedIn post."}
+{"theme": "volunteering", "tone": "confident", "instruction": "Write a confident LinkedIn post about volunteering."}
+{"theme": "research", "tone": "motivational", "instruction": "Write a motivational LinkedIn post about research."}
+{"theme": "job switch", "tone": "confident", "instruction": "Write a confident LinkedIn post about job switch."}
+{"theme": "research", "tone": "proud", "instruction": "Write a proud LinkedIn post about research."}
+{"theme": "conference", "tone": "appreciative", "instruction": "Share a reflective post on LinkedIn about attending National AI Conference."}
+{"theme": "startup launch", "tone": "proud", "instruction": "Write a proud LinkedIn post about startup launch."}
+{"theme": "job switch", "tone": "excited", "instruction": "Write a excited LinkedIn post about job switch."}
+{"theme": "conference", "tone": "proud", "instruction": "Write a proud LinkedIn post on key takeaways from PyCon 2025."}
+{"theme": "conference", "tone": "confident", "instruction": "I attended PyCon 2025. Write a professional LinkedIn post about it."}
+{"theme": "mentorship", "tone": "confident", "instruction": "Write a confident LinkedIn post about mentorship."}
+{"theme": "job switch", "tone": "professional", "instruction": "Write a professional LinkedIn post about job switch."}
+{"theme": "job switch", "tone": "professional", "instruction": "Write a professional LinkedIn post about job switch."}
+{"theme": "job switch", "tone": "proud", "instruction": "Write a proud LinkedIn post about job switch."}
+{"theme": "conference", "tone": "inspiring", "instruction": "Share a reflective post on LinkedIn about attending PyCon 2025."}
+{"theme": "conference", "tone": "friendly", "instruction": "I attended PyCon 2025. Write a professional LinkedIn post about it."}
+{"theme": "award", "tone": "humble", "instruction": "Write a humble LinkedIn post about award."}
+{"theme": "publication", "tone": "inspiring", "instruction": "Write a inspiring LinkedIn post about publication."}
+{"theme": "career update", "tone": "excited", "instruction": "Write a excited LinkedIn post about career update."}
+{"theme": "networking", "tone": "excited", "instruction": "Write a excited LinkedIn post about networking."}
+{"theme": "networking", "tone": "professional", "instruction": "Write a professional LinkedIn post about networking."}
+{"theme": "certification", "tone": "professional", "instruction": "Craft a motivational LinkedIn post about earning a LLMs certification."}
+{"theme": "volunteering", "tone": "proud", "instruction": "Write a proud LinkedIn post about volunteering."}
+{"theme": "webinar", "tone": "friendly", "instruction": "Write a friendly LinkedIn post about webinar."}
+{"theme": "personal achievement", "tone": "humble", "instruction": "Write a humble LinkedIn post about personal achievement."}
+{"theme": "internship", "tone": "motivational", "instruction": "Write a confident LinkedIn post celebrating my internship at Intel."}
+{"theme": "mentorship", "tone": "inspiring", "instruction": "Write a inspiring LinkedIn post about mentorship."}
+{"theme": "startup launch", "tone": "inspiring", "instruction": "Write a inspiring LinkedIn post about startup launch."}
+{"theme": "internship", "tone": "friendly", "instruction": "Compose a reflective LinkedIn post about my internship experience with Intel."}
+{"theme": "networking", "tone": "motivational", "instruction": "Write a motivational LinkedIn post about networking."}
+{"theme": "startup launch", "tone": "friendly", "instruction": "Write a friendly LinkedIn post about startup launch."}
+{"theme": "career update", "tone": "friendly", "instruction": "Write a friendly LinkedIn post about career update."}
+{"theme": "mentorship", "tone": "humble", "instruction": "Write a humble LinkedIn post about mentorship."}
+{"theme": "teamwork", "tone": "confident", "instruction": "Write a confident LinkedIn post about teamwork."}
+{"theme": "internship", "tone": "inspiring", "instruction": "Write a confident LinkedIn post celebrating my internship at Intel."}
+{"theme": "internship", "tone": "confident", "instruction": "Write a confident LinkedIn post celebrating my internship at NVIDIA."}
+{"theme": "project completion", "tone": "excited", "instruction": "Completed a project on Person ReID system. Write a proud LinkedIn post."}
+{"theme": "mentorship", "tone": "grateful", "instruction": "Write a grateful LinkedIn post about mentorship."}
+{"theme": "research", "tone": "inspiring", "instruction": "Write a inspiring LinkedIn post about research."}
+{"theme": "startup launch", "tone": "friendly", "instruction": "Write a friendly LinkedIn post about startup launch."}
+{"theme": "research", "tone": "motivational", "instruction": "Write a motivational LinkedIn post about research."}
+{"theme": "certification", "tone": "motivational", "instruction": "Write a friendly LinkedIn post about completing a Cybersecurity course."}
+{"theme": "publication", "tone": "motivational", "instruction": "Write a motivational LinkedIn post about publication."}
+{"theme": "conference", "tone": "excited", "instruction": "Share a reflective post on LinkedIn about attending National AI Conference."}
+{"theme": "promotion", "tone": "professional", "instruction": "Write a professional LinkedIn post about promotion."}
+{"theme": "award", "tone": "proud", "instruction": "Write a proud LinkedIn post about award."}
+{"theme": "career update", "tone": "humble", "instruction": "Write a humble LinkedIn post about career update."}
+{"theme": "project completion", "tone": "professional", "instruction": "Share a LinkedIn update about finishing my project: Person ReID system."}
+{"theme": "teamwork", "tone": "motivational", "instruction": "Write a motivational LinkedIn post about teamwork."}
+{"theme": "startup launch", "tone": "professional", "instruction": "Write a professional LinkedIn post about startup launch."}
+{"theme": "internship", "tone": "professional", "instruction": "Compose a reflective LinkedIn post about my internship experience with Intel."}
+{"theme": "hackathon", "tone": "grateful", "instruction": "Write a proud LinkedIn post about participating in National AI Conference."}
+{"theme": "mentorship", "tone": "proud", "instruction": "Write a proud LinkedIn post about mentorship."}
+{"theme": "personal achievement", "tone": "humble", "instruction": "Write a humble LinkedIn post about personal achievement."}
+{"theme": "certification", "tone": "professional", "instruction": "Craft a motivational LinkedIn post about earning a NLP certification."}
+{"theme": "project completion", "tone": "proud", "instruction": "Write a professional post celebrating the successful delivery of Fake News Detector."}
+{"theme": "project completion", "tone": "excited", "instruction": "Completed a project on Vision Pivot. Write a proud LinkedIn post."}
+{"theme": "mentorship", "tone": "friendly", "instruction": "Write a friendly LinkedIn post about mentorship."}
+{"theme": "networking", "tone": "friendly", "instruction": "Write a friendly LinkedIn post about networking."}
+{"theme": "promotion", "tone": "humble", "instruction": "Write a humble LinkedIn post about promotion."}
+{"theme": "freelance project", "tone": "professional", "instruction": "Write a professional LinkedIn post about freelance project."}
+{"theme": "project completion", "tone": "excited", "instruction": "Write a professional post celebrating the successful delivery of Vision Pivot."}
+{"theme": "mentorship", "tone": "friendly", "instruction": "Write a friendly LinkedIn post about mentorship."}
+{"theme": "learning milestone", "tone": "motivational", "instruction": "Write a motivational LinkedIn post about learning milestone."}
+{"theme": "mentorship", "tone": "professional", "instruction": "Write a professional LinkedIn post about mentorship."}
+{"theme": "internship", "tone": "professional", "instruction": "Compose a reflective LinkedIn post about my internship experience with OpenAI."}
+{"theme": "hackathon", "tone": "professional", "instruction": "Our team built an amazing solution at PyCon 2025. Share this achievement on LinkedIn."}
+{"theme": "hackathon", "tone": "confident", "instruction": "Our team built an amazing solution at PyCon 2025. Share this achievement on LinkedIn."}
+{"theme": "mentorship", "tone": "inspiring", "instruction": "Write a inspiring LinkedIn post about mentorship."}
+{"theme": "learning milestone", "tone": "professional", "instruction": "Write a professional LinkedIn post about learning milestone."}
+{"theme": "project completion", "tone": "friendly", "instruction": "Completed a project on Person ReID system. Write a proud LinkedIn post."}
+{"theme": "promotion", "tone": "professional", "instruction": "Write a professional LinkedIn post about promotion."}
