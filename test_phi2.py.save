@@ -1,0 +1,6 @@
+from transformers import AutoTokenizer, AutoModelForCausalLM import torch # Load tokenizer and model (Phi-2) model_name = "microsoft/phi-2" tokenizer = 
+AutoTokenizer.from_pretrained(model_name) model = AutoModelForCausalLM.from_pretrained(
+    model_name, torch_dtype=torch.float16, device_map="auto"  # uses MPS on Mac ) # Input prompt prompt = "Here’s a piece of advice for new professionals entering the 
+AI field:" # Tokenize and generate inputs = tokenizer(prompt, return_tensors="pt").to("mps") outputs = model.generate(**inputs, max_new_tokens=80) # Decode and print 
+print("\nGenerated Post:\n")
+print(tokenizer.decode(outputs[0], skip_special_tokens=True))
